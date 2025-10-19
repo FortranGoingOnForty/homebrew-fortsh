@@ -1,8 +1,8 @@
 class Fortsh < Formula
   desc "Modern Unix shell implementation in Fortran with AST-based parsing"
   homepage "https://github.com/FortranGoingOnForty/fortsh"
-  url "https://github.com/FortranGoingOnForty/fortsh/archive/refs/tags/v6.0.4.tar.gz"
-  sha256 "5bfe77581aa3245a2a985d4ac0f6d554c57486b3218a9402df1491219c3ee5cb"
+  url "https://github.com/FortranGoingOnForty/fortsh/archive/refs/tags/v6.0.5.tar.gz"
+  sha256 "408c3b57617aaa7105d9fd2b962d6cf49a8955b44426b2c479288a86505283cd"
   license "MIT"
   head "https://github.com/FortranGoingOnForty/fortsh.git", branch: "trunk"
 
